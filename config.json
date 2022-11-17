@@ -1,0 +1,116 @@
+{
+  "name": "Claudio Henrique",
+  "job": "React Student",
+  "bg":"https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+  "github": "https://avatars.githubusercontent.com/u/101318327?v=4",
+  "playlists": {
+    "games": [
+      {
+        "title": "Bloodborne ",
+        "url": "https://youtu.be/2Crk_GpxGQE",
+        "thumb": "https://i.ytimg.com/an_webp/2Crk_GpxGQE/mqdefault_6s.webp?du=3000&sqp=CJO_yZsG&rs=AOn4CLAWUQ35tIz_NRf-F9Tvxx-ZVJqMBQ"
+      },
+      {
+        "title": "Diablo IV",
+        "url": "https://youtu.be/tflKwXOESyc",
+        "thumb": "https://i.ytimg.com/an_webp/tflKwXOESyc/mqdefault_6s.webp?du=3000&sqp=CMDLyZsG&rs=AOn4CLB_7zm9vXVoVctbTHfnmaKHtVNbrQ"
+      },
+      {
+        "title": "Call of Duty: Modern Warfare II",
+        "url": "https://youtu.be/r72GP1PIZa0",
+        "thumb": "https://i.ytimg.com/an_webp/r72GP1PIZa0/mqdefault_6s.webp?du=3000&sqp=CL3pyZsG&rs=AOn4CLBWTQivh7MxHbpm2JO8-H7F4j13dQ"
+      },
+      {
+        "title": "Days Gone",
+        "url": "https://youtu.be/FKtaOY9lMvM",
+        "thumb": "https://i.ytimg.com/an_webp/FKtaOY9lMvM/mqdefault_6s.webp?du=3000&sqp=CLr5yZsG&rs=AOn4CLAOQKB2jSzTD5xvmoY48qHsqtfB6g"
+      },
+      {
+        "title": "Nioh",
+        "url": "https://youtu.be/YLW04LUUYls",
+        "thumb": "https://i.ytimg.com/an_webp/YLW04LUUYls/mqdefault_6s.webp?du=3000&sqp=CIn7yZsG&rs=AOn4CLBYpRIspQLXxmhN-S8wOGbBIRapFg"
+      },
+      {
+        "title": "God of War III",
+        "url": "https://youtu.be/qKogMfIAAkY",
+        "thumb": "https://i.ytimg.com/an_webp/qKogMfIAAkY/mqdefault_6s.webp?du=3000&sqp=CMj9yZsG&rs=AOn4CLC-DBm2jjuWL_aluVvEUwjNChQ0iQ"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Alura",
+        "url": "https://youtu.be/94yuIVdoevc",
+        "thumb": "https://tpc.googlesyndication.com/simgad/15670949400431835341"
+      },
+      {
+        "title": "Rocketseat",
+        "url": "https://youtu.be/73fRBvGS9s4",
+        "thumb": "https://i.ytimg.com/vi/73fRBvGS9s4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5V3oC_sexNLZlX7p_IZ9-pZn2tA"
+      },
+      {
+        "title": "Curso em video",
+        "url": "https://youtu.be/Ejkb_YpuHWs?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n",
+        "thumb": "https://i.ytimg.com/vi/Ejkb_YpuHWs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDoi9WQOODqhbt6FfT4MRtmNYR75Q"
+      },
+      {
+        "title": "Dio",
+        "url": "https://youtu.be/DRf7q6oOXLE",
+        "thumb": "https://i.ytimg.com/vi/smme2_QDg8I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArRadTDAJtTTOULNlQ_TnYWUFu3Q"
+      }
+    ],
+    "favorite": [
+      {
+        "title":"Código de Conduta",
+        "url":"https://youtu.be/n34wVRu0-rQ",
+        "thumb":"https://i.ytimg.com/an_webp/n34wVRu0-rQ/mqdefault_6s.webp?du=3000&sqp=CPjo1ZsG&rs=AOn4CLB-9LB5LV0HfGKac-kvUIQhCeZjLA"
+      },
+    
+    {
+      "title":"A Origem",
+      "url":"https://youtu.be/R_VX0e0PX90",
+      "thumb":"https://i.ytimg.com/an_webp/R_VX0e0PX90/mqdefault_6s.webp?du=3000&sqp=CMeE1psG&rs=AOn4CLC3nY7emRy3_zdoUXJPKKm_wZanYA"
+    },
+  
+  {
+    "title":"Death Note",
+    "url":"https://youtu.be/NlJZ-YgAt-c",
+    "thumb":"https://i.ytimg.com/an_webp/NlJZ-YgAt-c/mqdefault_6s.webp?du=3000&sqp=CKaB1psG&rs=AOn4CLDgncjDEeE9C8byCjj-Z2NuADTM8A"
+  },
+  {
+    "title":"Dragon Ball",
+    "url":"https://youtu.be/yXBw6YJB3uE",
+    "thumb":"https://i.ytimg.com/an_webp/yXBw6YJB3uE/mqdefault_6s.webp?du=3000&sqp=COvc1ZsG&rs=AOn4CLBzKJhha7YgHdpnBYXT47Kq4UU_Rw"
+  },
+  {
+  "title":"Dragon Ball Z",
+  "url":"https://youtu.be/yWgWhuN8wc4",
+  "thumb":"https://i.ytimg.com/an_webp/yWgWhuN8wc4/mqdefault_6s.webp?du=3000&sqp=CLLy1ZsG&rs=AOn4CLBTVH-rS7QOY-jT_GxwirkpMVNYzQ"
+  }
+  ],
+  "The Best":[ 
+  { 
+    "title":"Sempre ao seu lado",
+    "url":"https://youtu.be/UFY8vW5IedY",
+    "thumb":"https://i.ytimg.com/an_webp/UFY8vW5IedY/mqdefault_6s.webp?du=3000&sqp=CN711ZsG&rs=AOn4CLCLRrZz0_pAKpq5Om1yeHUMdQpYvw"
+  }
+
+  ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
